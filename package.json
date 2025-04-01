@@ -1,28 +1,36 @@
 {
   "name": "my-portfolio",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
+  "main": "pages/index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martialchess/fullstackportfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martialchess/fullstackportfolio/issues"
+  },
+  "homepage": "https://github.com/martialchess/fullstackportfolio#readme",
   "dependencies": {
-    "next": "15.2.4",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "@tailwindcss/postcss": "^4.0.17",
+    "next": "^15.2.4",
+    "postcss": "^8.5.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.0.17"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.0.17",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "autoprefixer": "^10.4.14",
-    "eslint": "^9",
-    "eslint-config-next": "15.2.4",
-    "postcss": "^8.5.3",
-    "tailwindcss": "^4.0.17",
-    "typescript": "^5"
+    "@types/node": "22.13.16",
+    "@types/react": "19.0.12",
+    "autoprefixer": "^10.4.21",
+    "typescript": "5.8.2"
   }
 }
