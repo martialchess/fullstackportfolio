@@ -4,7 +4,7 @@ export default function AboutSection() {
       <section className="bg-white p-6 mt-16 rounded-2xl shadow-md">
         <h2 className="text-3xl font-bold text-blue-800 mb-4">About Me</h2>
         <p className="text-gray-700 mb-4">
-          I'm a passionate developer with a love for creating dynamic and responsive web applications. I have a strong foundation in JavaScript, React, and Node.js, and I'm always eager to learn new technologies and improve my skills.
+          Iapos;m a passionate developer with a love for creating dynamic and responsive web applications. I have a strong foundation in JavaScript, React, and Node.js, and Iapos;m always eager to learn new technologies and improve my skills.
         </p>
         <div className="text-gray-600 space-y-1">
           <p><span className="font-semibold">Name:</span> Rida Malik</p>

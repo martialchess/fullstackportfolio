@@ -1,5 +1,4 @@
 // my-portfolio/components/HeroCard.tsx
-import Image from 'next/image';
 
 export default function HeroCard() {
   return (
