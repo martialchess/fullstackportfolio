@@ -59,7 +59,7 @@ export default function HeroCard() {
           </div>
 
           {/* Floating Stats Card */}
-          <div className="absolute top-75 sm:top-2/3 left-1/2 transform -translate-x-1/2 z-10 bg-white p-6 rounded-3xl shadow-xl w-full sm:w-1/3 md:w-full mt-6">
+          <div className="absolute top-75 sm:top-2/3 left-1/2 transform -translate-x-1/2 z-10 bg-white p-6 rounded-3xl shadow-xl w-full md:w-full mt-25">
             <div className="flex justify-between text-sm text-gray-600">
               <div className="flex items-center space-x-2">
                 <FaChartArea className="h-6 w-6 text-blue-700" />
