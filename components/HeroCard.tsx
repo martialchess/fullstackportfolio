@@ -1,3 +1,4 @@
+import React from 'react';
 import { FaBattleNet, FaCat, FaChartArea } from 'react-icons/fa';
 import { useRef, useState, useEffect } from 'react';
 import Link from 'next/link'; // Import Link from Next.js

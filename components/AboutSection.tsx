@@ -1,4 +1,5 @@
 // my-portfolio/components/AboutSection.tsx
+import React from 'react';
 export default function AboutSection() {
     return (
       <section className="bg-white p-6 mt-40 rounded-2xl shadow-md">

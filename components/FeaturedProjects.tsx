@@ -1,4 +1,5 @@
 // my-portfolio/components/FeaturedProjects.tsx
+import React from 'react';
 
 const projects = [
     {
